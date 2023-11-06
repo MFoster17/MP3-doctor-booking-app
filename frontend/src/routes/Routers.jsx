@@ -2,10 +2,8 @@ import React from 'react'
 
 const Routers = () => {
   return (
-    <div>
-      
-    </div>
+    <div>Routers</div>
   )
 }
 
-export default Routers
+export default Routers;

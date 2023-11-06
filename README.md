@@ -18,7 +18,7 @@ Registration and Login:
 
 
 ### Technologies
-Node.js, Express.js, Mongoose, React, MongoDB, Render
+Node.js, Express.js, Mongoose, React, MongoDB, JWT, Stripe, Tailwind, Render
 
 
 ### Outstanding Bugs
@@ -30,4 +30,9 @@ Michael Murphy
 Stack Overflow
 
 ## Links
-Github Repo: 
+Github Repo: https://github.com/MFoster17/MP3-doctor-booking-app
+Fonts: https://fonts.google.com/
+Swiper: https://swiperjs.com/
+Stripe: https://stripe.com/en-gb-us
+Icons: https://react-icons.github.io/react-icons/
+
